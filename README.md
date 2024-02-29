@@ -1,0 +1,2 @@
+# wear-info
+tea testnet
